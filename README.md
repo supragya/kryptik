@@ -1,2 +1,2 @@
 # kryptik
-GnuPG based signalling for secured endpoints
+PGP based signalling for secured endpoints
