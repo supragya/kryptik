@@ -1,4 +1,4 @@
-module github.com/supragya/kryptik/pkg/kryptik
+module github.com/supragya/kryptik
 
 go 1.15
 
